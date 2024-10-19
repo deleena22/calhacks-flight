@@ -1,0 +1,6502 @@
+[
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NXEYKE",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N350XX",
+    "departureAirport": "DEN",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N621MM",
+    "departureAirport": "ATL",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NN7RI1",
+    "departureAirport": "LAS",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N4DP",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAS",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NL13H7",
+    "departureAirport": "ORD",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N162JC",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N162JC",
+    "departureAirport": "JFK",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DFW",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "NB1OBW",
+    "departureAirport": "DEN",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N713TS",
+    "departureAirport": "ATL",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NDTM8X",
+    "departureAirport": "LAX",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NQ7TA0",
+    "departureAirport": "LAX",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N0SHCW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N54QW",
+    "departureAirport": "LAS",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N621MM",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N162JC",
+    "departureAirport": "MIA",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DFW",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N350XX",
+    "departureAirport": "BOS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N444SC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N1FNSY",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SFO",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N350XX",
+    "departureAirport": "ORD",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N713TS",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N8KHKV",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DFW",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NU1NTX",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N621MM",
+    "departureAirport": "PHX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N444SC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N54QW",
+    "departureAirport": "LAS",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NZ7VDX",
+    "departureAirport": "MIA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NBERUS",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N162JC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N1GF8L",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "NH5XMT",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N5DD9N",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N0S8SW",
+    "departureAirport": "JFK",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N350XX",
+    "departureAirport": "ORD",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N4DP",
+    "departureAirport": "DEN",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SFO",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "PHX",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NWLXLM",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N621MM",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N4DP",
+    "departureAirport": "PHX",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N3OJKA",
+    "departureAirport": "SFO",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N162JC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N350XX",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N713TS",
+    "departureAirport": "ATL",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NU2DR0",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N5ZZRA",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NDO5IR",
+    "departureAirport": "ORD",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NAK1ZG",
+    "departureAirport": "DEN",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N621MM",
+    "departureAirport": "LAX",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N66E13",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NE79GV",
+    "departureAirport": "PHX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NT6WP6",
+    "departureAirport": "LAX",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N4DP",
+    "departureAirport": "ATL",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NF4H8Z",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N350XX",
+    "departureAirport": "LAX",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "BOS",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N444SC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N621MM",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N350XX",
+    "departureAirport": "DFW",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N713TS",
+    "departureAirport": "LAX",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NQ7I9T",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NMN1UW",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N4DP",
+    "departureAirport": "MIA",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NAYW34",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "PHX",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NUCM1P",
+    "departureAirport": "ORD",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N713TS",
+    "departureAirport": "JFK",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NB0DYB",
+    "departureAirport": "PHX",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ORD",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NOM7HZ",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N90IGZ",
+    "departureAirport": "ATL",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "ND65S3",
+    "departureAirport": "ATL",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N350XX",
+    "departureAirport": "JFK",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N4DP",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N162JC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N621MM",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "MIA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N162JC",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N713TS",
+    "departureAirport": "PHX",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NNTX2Q",
+    "departureAirport": "LAS",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N4XDMI",
+    "departureAirport": "BOS",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N5KM8V",
+    "departureAirport": "DFW",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N621MM",
+    "departureAirport": "BOS",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NRVDLU",
+    "departureAirport": "DEN",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N350XX",
+    "departureAirport": "PHX",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N4DP",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "NSI0LE",
+    "departureAirport": "DEN",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N350XX",
+    "departureAirport": "PHX",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N54QW",
+    "departureAirport": "DEN",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N350XX",
+    "departureAirport": "DEN",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N444SC",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N819FA",
+    "departureAirport": "LAX",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N5QC07",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "JFK",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N84JZF",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N713TS",
+    "departureAirport": "JFK",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NGND7M",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N162JC",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N621MM",
+    "departureAirport": "DFW",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NNA7M3",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N54QW",
+    "departureAirport": "DFW",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N621MM",
+    "departureAirport": "LAX",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SFO",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SFO",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N444SC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N713TS",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NQ595K",
+    "departureAirport": "ORD",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N350XX",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "BOS",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NELDOY",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DFW",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N444SC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N713TS",
+    "departureAirport": "PHX",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N162JC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NBJMKE",
+    "departureAirport": "SFO",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N444SC",
+    "departureAirport": "SFO",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "MIA",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SFO",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NBB6FD",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N621MM",
+    "departureAirport": "BOS",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N6EU14",
+    "departureAirport": "MIA",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NM6Q0O",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NPLYNI",
+    "departureAirport": "ATL",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAS",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N8J0UA",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N621MM",
+    "departureAirport": "ATL",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N444SC",
+    "departureAirport": "ATL",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "NFFOGC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N350XX",
+    "departureAirport": "MIA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N54QW",
+    "departureAirport": "LAS",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N8B0RW",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N350XX",
+    "departureAirport": "MIA",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N713TS",
+    "departureAirport": "ORD",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NTHAAO",
+    "departureAirport": "DEN",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NCCWV1",
+    "departureAirport": "SFO",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N444SC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N54QW",
+    "departureAirport": "MIA",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NXXVS8",
+    "departureAirport": "ATL",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N713TS",
+    "departureAirport": "ORD",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N4DP",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N7EQX9",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NZHHPT",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N713TS",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N713TS",
+    "departureAirport": "LAS",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NANP44",
+    "departureAirport": "ATL",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N713TS",
+    "departureAirport": "PHX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "PHX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ATL",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N350XX",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "NMIQL0",
+    "departureAirport": "JFK",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N621MM",
+    "departureAirport": "DFW",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ORD",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "NIXE8M",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N713TS",
+    "departureAirport": "JFK",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N0RW45",
+    "departureAirport": "ORD",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "PHX",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NEFJEK",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N4MGNA",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NV28RL",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NG0GVA",
+    "departureAirport": "ATL",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N444SC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NYX4AG",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N4DP",
+    "departureAirport": "PHX",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N7M1RY",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NJ4LNN",
+    "departureAirport": "PHX",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SEA",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N350XX",
+    "departureAirport": "PHX",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NVPS8N",
+    "departureAirport": "ATL",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SEA",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N54QW",
+    "departureAirport": "JFK",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "NZ1CL0",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DFW",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N444SC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SFO",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NNWXL3",
+    "departureAirport": "DFW",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N713TS",
+    "departureAirport": "SEA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N621MM",
+    "departureAirport": "JFK",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N6JZVE",
+    "departureAirport": "DFW",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N162JC",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N4DP",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NZSWNU",
+    "departureAirport": "DFW",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N444SC",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N96P1Y",
+    "departureAirport": "DEN",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAX",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NFUL1B",
+    "departureAirport": "SFO",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N621MM",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAS",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N350XX",
+    "departureAirport": "DFW",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NACDRR",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N1L4US",
+    "departureAirport": "SEA",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAS",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DFW",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N713TS",
+    "departureAirport": "ATL",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N350XX",
+    "departureAirport": "PHX",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NJD8XZ",
+    "departureAirport": "ORD",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NKFMXZ",
+    "departureAirport": "DFW",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SFO",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N621MM",
+    "departureAirport": "DEN",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NXYQR4",
+    "departureAirport": "ORD",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NCKX9D",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N350XX",
+    "departureAirport": "ATL",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N4DP",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NFEPWC",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N350XX",
+    "departureAirport": "BOS",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N350XX",
+    "departureAirport": "LAX",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "NMG9Z6",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ORD",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N621MM",
+    "departureAirport": "DEN",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N54QW",
+    "departureAirport": "MIA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N350XX",
+    "departureAirport": "MIA",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N621MM",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NXPZJ8",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NMWD64",
+    "departureAirport": "JFK",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N350XX",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NWSKZB",
+    "departureAirport": "LAS",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N4DP",
+    "departureAirport": "ATL",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NYZS4C",
+    "departureAirport": "LAX",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N444SC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N350XX",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N713TS",
+    "departureAirport": "SEA",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N350XX",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N621MM",
+    "departureAirport": "LAX",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NC7B3S",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NO3KD0",
+    "departureAirport": "JFK",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NTZ3AW",
+    "departureAirport": "ORD",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N8ZO8M",
+    "departureAirport": "BOS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N1ID7R",
+    "departureAirport": "ATL",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NOP1QS",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N444SC",
+    "departureAirport": "MIA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "NNFWW0",
+    "departureAirport": "ORD",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N4DP",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "NVM1N1",
+    "departureAirport": "ORD",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DFW",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N162JC",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N350XX",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N444SC",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N350XX",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N4DP",
+    "departureAirport": "DFW",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NQ9YCT",
+    "departureAirport": "MIA",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SEA",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N621MM",
+    "departureAirport": "ORD",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "ND9B98",
+    "departureAirport": "MIA",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N713TS",
+    "departureAirport": "ORD",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "NXKBPY",
+    "departureAirport": "DFW",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NR3GI4",
+    "departureAirport": "BOS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N3WIDU",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N6IBPK",
+    "departureAirport": "ORD",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N350XX",
+    "departureAirport": "BOS",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "ATL",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAS",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N350XX",
+    "departureAirport": "MIA",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NGB55G",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DEN",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "ORD",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N54QW",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NOSETM",
+    "departureAirport": "DFW",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAS",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "JFK",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N350XX",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N713TS",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NTF808",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N46H6Z",
+    "departureAirport": "DEN",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N162JC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N54QW",
+    "departureAirport": "JFK",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N4DP",
+    "departureAirport": "ATL",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N350XX",
+    "departureAirport": "MIA",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N54QW",
+    "departureAirport": "DFW",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SFO",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N54QW",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N162JC",
+    "departureAirport": "PHX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DFW",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N713TS",
+    "departureAirport": "LAS",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "ORD",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N713TS",
+    "departureAirport": "SEA",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N444SC",
+    "departureAirport": "PHX",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N162JC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N7D2VD",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NVMPVE",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N713TS",
+    "departureAirport": "BOS",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N162JC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "NPHKFU",
+    "departureAirport": "ATL",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N162JC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N162JC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NKB73O",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N3WI9E",
+    "departureAirport": "DEN",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SFO",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N162JC",
+    "departureAirport": "ORD",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NVPN5Z",
+    "departureAirport": "PHX",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N621MM",
+    "departureAirport": "LAX",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NMKYVA",
+    "departureAirport": "PHX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NX5C5U",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N5UOJX",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N5I0QK",
+    "departureAirport": "LAS",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NDAK2J",
+    "departureAirport": "BOS",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N54QW",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "DFW",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N350XX",
+    "departureAirport": "LAS",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N35RJL",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SEA",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N713TS",
+    "departureAirport": "LAS",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N4DP",
+    "departureAirport": "DFW",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N54QW",
+    "departureAirport": "DEN",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NCQ1BT",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "NGTT9B",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NDH4L9",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NIDHTU",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N621MM",
+    "departureAirport": "MIA",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N444SC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SEA",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ORD",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ATL",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N621MM",
+    "departureAirport": "ATL",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N713TS",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "LAS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NQ0Q0Y",
+    "departureAirport": "SFO",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NGJ6LM",
+    "departureAirport": "ATL",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N162JC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N068OH",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N9ADLU",
+    "departureAirport": "ATL",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "NG8B1R",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N162JC",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N713TS",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "NK5E67",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N4DP",
+    "departureAirport": "PHX",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NI45W7",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NCBLQV",
+    "departureAirport": "ATL",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N7D1WU",
+    "departureAirport": "SEA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N54QW",
+    "departureAirport": "PHX",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N444SC",
+    "departureAirport": "JFK",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SFO",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N713TS",
+    "departureAirport": "JFK",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N54QW",
+    "departureAirport": "PHX",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "LAX",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "NXY4ZK",
+    "departureAirport": "MIA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N2UHU6",
+    "departureAirport": "SFO",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N8AZ7C",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N621MM",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N162JC",
+    "departureAirport": "SFO",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N54QW",
+    "departureAirport": "SEA",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SEA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "NG3N3K",
+    "departureAirport": "DFW",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "NSCJ5Q",
+    "departureAirport": "SFO",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N54QW",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DFW",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N4DP",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NM462Y",
+    "departureAirport": "ATL",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAS",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N4DP",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N444SC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N444SC",
+    "departureAirport": "MIA",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAX",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "NO06N9",
+    "departureAirport": "ATL",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N444SC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "SEA",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N4DP",
+    "departureAirport": "DFW",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "callsign": "N444SC",
+    "departureAirport": "PHX",
+    "arrivalAirport": "DFW"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "N54QW",
+    "departureAirport": "ORD",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N713TS",
+    "departureAirport": "SEA",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "LAX",
+    "arrivalAirport": "ORD"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N162JC",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N4T7BF",
+    "departureAirport": "ATL",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "DEN",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NVA9QE",
+    "departureAirport": "ORD",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N350XX",
+    "departureAirport": "PHX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N4DP",
+    "departureAirport": "DEN",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "N4DP",
+    "departureAirport": "MIA",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N621MM",
+    "departureAirport": "SFO",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N54QW",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "callsign": "NVC91V",
+    "departureAirport": "SFO",
+    "arrivalAirport": "DEN"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N162JC",
+    "departureAirport": "DEN",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NUU3YT",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "NOK0ZK",
+    "departureAirport": "BOS",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N713TS",
+    "departureAirport": "MIA",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N444SC",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 41.9742,
+      "longitude": -87.9073
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N350XX",
+    "departureAirport": "ORD",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "NTJJKX",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N350XX",
+    "departureAirport": "ATL",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N444SC",
+    "departureAirport": "JFK",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "LAX",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAS",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "callsign": "NY4M0W",
+    "departureAirport": "BOS",
+    "arrivalAirport": "ATL"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "arrivalCoords": {
+      "latitude": 36.0801,
+      "longitude": -115.1523
+    },
+    "callsign": "N713TS",
+    "departureAirport": "PHX",
+    "arrivalAirport": "LAS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "NKSI1H",
+    "departureAirport": "JFK",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "arrivalCoords": {
+      "latitude": 33.4342,
+      "longitude": -112.0131
+    },
+    "callsign": "N713TS",
+    "departureAirport": "SEA",
+    "arrivalAirport": "PHX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N4DP",
+    "departureAirport": "LAX",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 32.8998,
+      "longitude": -97.0403
+    },
+    "arrivalCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "callsign": "N350XX",
+    "departureAirport": "DFW",
+    "arrivalAirport": "JFK"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "callsign": "N621MM",
+    "departureAirport": "ATL",
+    "arrivalAirport": "BOS"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N767CJ",
+    "departureAirport": "BOS",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "callsign": "N54QW",
+    "departureAirport": "DEN",
+    "arrivalAirport": "MIA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N713TS",
+    "departureAirport": "DEN",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "arrivalCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "callsign": "N4DP",
+    "departureAirport": "MIA",
+    "arrivalAirport": "SFO"
+  },
+  {
+    "departureCoords": {
+      "latitude": 42.3656,
+      "longitude": -71.0096
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N54QW",
+    "departureAirport": "BOS",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "departureCoords": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N350XX",
+    "departureAirport": "SFO",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 33.6407,
+      "longitude": -84.4279
+    },
+    "arrivalCoords": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "callsign": "N444SC",
+    "departureAirport": "ATL",
+    "arrivalAirport": "SEA"
+  },
+  {
+    "departureCoords": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "arrivalCoords": {
+      "latitude": 33.9416,
+      "longitude": -118.4085
+    },
+    "callsign": "N54QW",
+    "departureAirport": "JFK",
+    "arrivalAirport": "LAX"
+  }
+]
