@@ -1,9 +1,30 @@
 import express from 'express';
 import fs from 'fs';
 
+
+
+import express from 'express';
+import cors from 'cors'; // Import cors middleware
+import fs from 'fs';
+
 // Initialize the express app
 const app = express();
 const port = 3000;
+
+// Use CORS middleware
+app.use(cors()); // This allows all origins to access the API
+
+app.get('/', (req, res) => {
+  res.send('Welcome to the Carbon Footprint API!');
+});
+
+// (Rest of your API code...)
+
+// Start the server
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});
+
 
 app.get('/', (req, res) => {
     res.send('Welcome to the Carbon Footprint API!');
