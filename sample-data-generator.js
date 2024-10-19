@@ -7,24 +7,25 @@ const predefinedCallsigns = [
 
 // Airport list with correct coordinates (latitude, longitude)
 const airports = {
-  JFK: { latitude: 10.6413, longitude: -73.7781 }, // John F. Kennedy International Airport, New York
-  LAX: { latitude: 20.9416, longitude: -118.4085 }, // Los Angeles International Airport, Los Angeles
-  ORD: { latitude: 14.9742, longitude: -27.9073 }, // O'Hare International Airport, Chicago
-  DFW: { latitude: 12.8998, longitude: -57.0403 }, // Dallas/Fort Worth International Airport, Dallas
-  DEN: { latitude: 13.7392, longitude: -94.9903 }, // Denver International Airport, Denver
-  SFO: { latitude: 17.7749, longitude: -22.4194 }, // San Francisco International Airport, San Francisco
-  SEA: { latitude: 47.6062, longitude: -12.3321 }, // Seattle-Tacoma International Airport, Seattle
-  MIA: { latitude: 25.7617, longitude: -20.1918 }, // Miami International Airport, Miami
-  ATL: { latitude: 13.6407, longitude: -84.4279 }, // Hartsfield-Jackson Atlanta International Airport, Atlanta
-  LAS: { latitude: 16.0801, longitude: -115.1523 }, // McCarran International Airport, Las Vegas
-  BOS: { latitude: 12.3656, longitude: -71.0096 }, // Logan International Airport, Boston
-  PHX: { latitude: 23.4342, longitude: -112.0131 } // Phoenix Sky Harbor International Airport, Phoenix
+  JFK: { latitude: 40.6413, longitude: -73.7781 }, // John F. Kennedy International Airport, New York
+  LAX: { latitude: 33.9416, longitude: -118.4085 }, // Los Angeles International Airport, Los Angeles
+  ORD: { latitude: 41.9742, longitude: -87.9073 }, // O'Hare International Airport, Chicago
+  DFW: { latitude: 32.8998, longitude: -97.0403 }, // Dallas/Fort Worth International Airport, Dallas
+  DEN: { latitude: 39.7392, longitude: -104.9903 }, // Denver International Airport, Denver
+  SFO: { latitude: 37.7749, longitude: -122.4194 }, // San Francisco International Airport, San Francisco
+  SEA: { latitude: 47.6062, longitude: -122.3321 }, // Seattle-Tacoma International Airport, Seattle
+  MIA: { latitude: 25.7617, longitude: -80.1918 }, // Miami International Airport, Miami
+  ATL: { latitude: 33.6407, longitude: -84.4279 }, // Hartsfield-Jackson Atlanta International Airport, Atlanta
+  LAS: { latitude: 36.0801, longitude: -115.1523 }, // McCarran International Airport, Las Vegas
+  BOS: { latitude: 42.3656, longitude: -71.0096 }, // Logan International Airport, Boston
+  PHX: { latitude: 33.4342, longitude: -112.0131 } // Phoenix Sky Harbor International Airport, Phoenix
 };
 
 // Function to generate random callsign (with weighted bias towards N621MM)
 const getRandomCallsign = () => {
-  return Math.random() < 0.5
-    ? 'N621MM'  // Give a 50% chance to always pick N621MM
+  // Adjust bias towards N621MM, but not too extreme
+  return Math.random() < 0.3
+    ? 'N621MM'  // Give a 30% chance to pick N621MM (less frequent than before)
     : predefinedCallsigns[Math.floor(Math.random() * predefinedCallsigns.length)];
 };
 
@@ -43,11 +44,10 @@ const calculateDistance = (lat1, lon1, lat2, lon2) => {
 
 const generateFlightData = (numFlights) => {
   return Array.from({ length: numFlights }, () => {
-    // Randomly select a departure airport and arrival airport with shorter distances
     let departureAirport, arrivalAirport;
     let distance = 0;
     do {
-      // Select two airports, ensuring a shorter distance between them
+      // Select two airports, allowing longer distances again
       departureAirport = Object.keys(airports)[Math.floor(Math.random() * Object.keys(airports).length)];
       arrivalAirport = Object.keys(airports)[Math.floor(Math.random() * Object.keys(airports).length)];
       
@@ -57,7 +57,7 @@ const generateFlightData = (numFlights) => {
         departureCoords.latitude, departureCoords.longitude,
         arrivalCoords.latitude, arrivalCoords.longitude
       );
-    } while (distance > 1000);  // Ensure the flight is less than 1000 km (shorter flight distance)
+    } while (distance > 5000);  // Allow for flights up to 5000 km (full range of distances)
 
     const departureCoords = airports[departureAirport];
     const arrivalCoords = airports[arrivalAirport];
@@ -76,4 +76,4 @@ const generateFlightData = (numFlights) => {
 // Generate 500 flights and save to flights.json
 const flightData = generateFlightData(500);
 fs.writeFileSync('flights.json', JSON.stringify(flightData, null, 2), 'utf8');
-console.log('500 flights with bias towards N621MM and shorter distances have been written to flights.json');
+console.log('500 flights with bias towards N621MM and normal distances have been written to flights.json');
