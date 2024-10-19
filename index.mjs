@@ -16,12 +16,6 @@ app.get('/', (req, res) => {
 });
 
 
-
-app.get('/', (req, res) => {
-    res.send('Welcome to the Carbon Footprint API!');
-  });
-  
-
 // Map of celebrity to plane type
 const celebToJet = {
   'TAYLOR_SWIFT': 'FALCON_7X',
