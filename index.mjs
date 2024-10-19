@@ -1,6 +1,3 @@
-import express from 'express';
-import fs from 'fs';
-
 
 
 import express from 'express';
@@ -18,12 +15,6 @@ app.get('/', (req, res) => {
   res.send('Welcome to the Carbon Footprint API!');
 });
 
-// (Rest of your API code...)
-
-// Start the server
-app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
-});
 
 
 app.get('/', (req, res) => {

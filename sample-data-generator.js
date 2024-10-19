@@ -21,38 +21,59 @@ const airports = {
   PHX: { latitude: 33.4342, longitude: -112.0131 } // Phoenix Sky Harbor International Airport, Phoenix
 };
 
-// Function to generate random callsign (either from the predefined list or a random one)
+// Function to generate random callsign (with weighted bias towards N621MM)
 const getRandomCallsign = () => {
-  return Math.random() < 0.7
-    ? predefinedCallsigns[Math.floor(Math.random() * predefinedCallsigns.length)]
-    : 'N' + Math.random().toString(36).substr(2, 5).toUpperCase(); // Generate a random callsign
+  return Math.random() < 0.5
+    ? 'N621MM'  // Give a 50% chance to always pick N621MM
+    : predefinedCallsigns[Math.floor(Math.random() * predefinedCallsigns.length)];
+};
+
+// Function to calculate distance between two sets of coordinates using the Haversine formula
+const calculateDistance = (lat1, lon1, lat2, lon2) => {
+  const R = 6371; // Radius of the Earth in km
+  const dLat = (lat2 - lat1) * (Math.PI / 180);
+  const dLon = (lon2 - lon1) * (Math.PI / 180);
+  const a = 
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) * 
+    Math.sin(dLon / 2) * Math.sin(dLon / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return R * c; // Distance in km
 };
 
 const generateFlightData = (numFlights) => {
-    return Array.from({ length: numFlights }, () => {
-      // Randomly select a departure airport and arrival airport
-      const departureAirport = Object.keys(airports)[Math.floor(Math.random() * Object.keys(airports).length)];
-      const arrivalAirport = Object.keys(airports)[Math.floor(Math.random() * Object.keys(airports).length)];
-  
-      // Get the coordinates for the airports (as objects)
+  return Array.from({ length: numFlights }, () => {
+    // Randomly select a departure airport and arrival airport with shorter distances
+    let departureAirport, arrivalAirport;
+    let distance = 0;
+    do {
+      // Select two airports, ensuring a shorter distance between them
+      departureAirport = Object.keys(airports)[Math.floor(Math.random() * Object.keys(airports).length)];
+      arrivalAirport = Object.keys(airports)[Math.floor(Math.random() * Object.keys(airports).length)];
+      
       const departureCoords = airports[departureAirport];
       const arrivalCoords = airports[arrivalAirport];
-  
-      const callsign = getRandomCallsign();
-  
-      // Return the flight data
-      return { 
-        departureCoords,  // Keep as an object with latitude and longitude
-        arrivalCoords, 
-        callsign, 
-        departureAirport, 
-        arrivalAirport 
-      };
-    });
-  };
-  
+      distance = calculateDistance(
+        departureCoords.latitude, departureCoords.longitude,
+        arrivalCoords.latitude, arrivalCoords.longitude
+      );
+    } while (distance > 1000);  // Ensure the flight is less than 1000 km (shorter flight distance)
+
+    const departureCoords = airports[departureAirport];
+    const arrivalCoords = airports[arrivalAirport];
+    const callsign = getRandomCallsign();
+
+    return { 
+      departureCoords,  // Keep as an object with latitude and longitude
+      arrivalCoords, 
+      callsign, 
+      departureAirport, 
+      arrivalAirport 
+    };
+  });
+};
 
 // Generate 500 flights and save to flights.json
 const flightData = generateFlightData(500);
 fs.writeFileSync('flights.json', JSON.stringify(flightData, null, 2), 'utf8');
-console.log('500 flights with correct airport coordinates have been written to flights.json');
+console.log('500 flights with bias towards N621MM and shorter distances have been written to flights.json');
